@@ -1,0 +1,31 @@
+id,idno,author-short,author-full,author-lifedata,edition-year,edition-source,availability,author-gender,title-short,title-full,year,decade,form,supergenre,genre,tokens
+mx0001_Payno_AventuraVeterano,mx0001,Payno,"Payno, Manuel",1820-1894,2014,https://mexicana.cultura.gob.mx,unclear,male,AventuraVeterano,Aventura de un veterano,1843,1840,prose,narrative,short novel,10534
+mx0002_RodriguezGalvan_Procesion,mx0002,RodriguezGalvan,"Rodríguez Galván, Ignacio",1816-1842,2014,https://mexicana.cultura.gob.mx,unclear,male,Procesion,La procesión,1838,1830,prose,narrative,short novel,14364
+mx0003_FriasSoto_Vulcano,mx0003,FriasSoto,"Frías y Soto, Hilarión",1831-1905,2014,https://mexicana.cultura.gob.mx,unclear,male,Vulcano,Vulcano,1861,1860,prose,narrative,short novel,7012
+mx0004_DiazCovarrubias_DiabloMexico,mx0004,DiazCovarrubias,"Díaz Covarrubias, Juan",1837-1859,2014,https://mexicana.cultura.gob.mx,unclear,male,DiabloMexico,El diablo en México,1858,1850,prose,narrative,short novel,20507
+mx0005_Delgado_HistoriaVulgar,mx0005,Delgado,"Delgado, Rafael",1853-1914,2014,https://mexicana.cultura.gob.mx,unclear,male,HistoriaVulgar,Una historia vulgar,1904,1900,prose,narrative,short novel,28505
+mx0006_Zentella_Perico,mx0006,Zentella,"Zentella, Arcadio",1844-1920,2014,https://mexicana.cultura.gob.mx,unclear,male,Perico,Perico,1886,1880,prose,narrative,short novel,26133
+mx0007_Rabasa_GuerraTresAnos,mx0007,Rabasa,"Rabasa, Emilio",1853-1930,2014,https://mexicana.cultura.gob.mx,unclear,male,GuerraTresAnos,La guerra de tres años,1891,1890,prose,narrative,short novel,13183
+mx0008_Cuellar_Fuerenos,mx0008,Cuellar,"Cuéllar, José Tomás de",1830-1894,2014,https://mexicana.cultura.gob.mx,unclear,male,Fuerenos,Los fuereños,1890,1890,prose,narrative,short novel,30899
+mx0009_Othon_Corydon,mx0009,Othon,"Othón, Manuel José",1858-1906,2014,https://mexicana.cultura.gob.mx,unclear,male,Corydon,El pastor Corydón,1895,1890,prose,narrative,short novel,9837
+mx0010_LopezPortillo_Nieves,mx0010,LopezPortillo,"López Portillo y Rojas, José",1850-1923,2014,https://mexicana.cultura.gob.mx,unclear,male,Nieves,Nieves,1887,1880,prose,narrative,short novel,26892
+mx0011_Payno_Trinidad,mx0011,Payno,"Payno, Manuel",1820-1894,2018,https://www.lanovelacorta.com,unclear,male,Trinidad,Trinidad de Juárez,1844,1840,prose,narrative,short novel,14875
+mx0012_Pesado_Inquisidor,mx0012,Pesado,"Pesado, José Joaquín",1801-1861,2018,https://www.lanovelacorta.com,unclear,male,Inquisidor,El inquisidor de México,1838,1830,prose,narrative,short novel,10567
+mx0013_Rebolledo_Enemigo,mx0013,Rebolledo,"Rebolledo, Efrén",1877-1929,2018,https://www.lanovelacorta.com,unclear,male,Enemigo,El enemigo,1900,1900,prose,narrative,short novel,12791
+mx0014_Sierra_Confesiones,mx0014,Sierra,"Sierra, Justo",1848-1912,2018,https://www.lanovelacorta.com,unclear,male,Confesiones,Confesiones de un pianista,1872,1870,prose,narrative,short novel,23877
+mx0015_Sierra_Incognita,mx0015,Sierra,"Sierra, Justo",1848-1912,2018,https://www.lanovelacorta.com,unclear,male,Incognita,Incógnita,1871,1870,prose,narrative,short novel,11028
+mx0016_SierraMendez_FlorDolor,mx0016,SierraMendez,"Sierra Méndez, Santiago",1850-1880,2018,https://www.lanovelacorta.com,unclear,male,FlorDolor,Flor del dolor,1871,1870,prose,narrative,short novel,13912
+mx0017_PeonContreras_Veleidosa,mx0017,PeonContreras,"Peón Contreras, José",1843-1907,2020,https://www.lanovelacorta.com,unclear,male,Veleidosa,Veleidosa,1891,1890,prose,narrative,short novel,18303
+mx0018_Negrete_MemoriasPaulina,mx0018,Negrete,"Negrete, José",1855-1883,2018,https://www.lanovelacorta.com,unclear,male,MemoriasPaulina,Memorias de Paulina,1874,1870,prose,narrative,short novel,13833
+mx0019_Nervo_DonadorAlmas,mx0019,Nervo,"Nervo, Amado",1870-1919,2018,https://www.lanovelacorta.com,unclear,male,DonadorAlmas,El donador de almas,1899,1890,prose,narrative,short novel,19425
+mx0020_LopezPortillo_PactoDiablo,mx0020,LopezPortillo,"López Portillo y Rojas, José",1850-1923,2021,https://www.lanovelacorta.com,unclear,male,PactoDiablo,Un pacto con el diablo,1890,1890,prose,narrative,short novel,6113
+mx0021_LopezPortillo_Diligencia,mx0021,LopezPortillo,"López Portillo y Rojas, José",1850-1923,2018,https://www.lanovelacorta.com,unclear,male,Diligencia,En diligencia,1887,1887,prose,narrative,short novel,9290
+mx0022_Leduc_Calvario,mx0022,Leduc,"Leduc, Alberto",1867-1908,2018,https://www.lanovelacorta.com,unclear,male,Calvario,Un calvario,1894,1890,prose,narrative,short novel,12872
+mx0023_Lacunza_Netzula,mx0023,Lacunza,"Lacunza, José María",1809-1869,2018,https://www.lanovelacorta.com,unclear,male,Netzula,Netzula,1837,1830,prose,narrative,short novel,10713
+mx0024_GomezCortina_Euclea,mx0024,GomezCortina,"Gómez de la Cortina, José Justo",1799-1860,2018,https://www.lanovelacorta.com,unclear,male,Euclea,"Euclea, o la griega de Trieste",1841,1840,prose,narrative,short novel,8084
+mx0025_Gamboa_Cerillos,mx0025,Gamboa,"Gamboa, Federico",1864-1939,2021,https://www.lanovelacorta.com,unclear,male,Cerillos,¡Vendía cerillos!,1889,1880,prose,narrative,short novel,19862
+mx0026_FernandezLizardi_NochesTristes,mx0026,FernandezLizardi,"Fernández de Lizardi, José Joaquín",1776-1827,2018,https://www.lanovelacorta.com,unclear,male,NochesTristes,Noches tristes y día alegre,1818,1810,prose,dramatic,short novel,30851
+mx0027_Ceballos_Monografia,mx0027,Ceballos,"Ceballos, Ciro B.",1872-1938,2021,https://www.lanovelacorta.com,unclear,male,Monografia,Monografía,1898,1890,prose,narrative,short novel,13848
+mx0028_Campo_ClavelesDobles,mx0028,Campo,"Campo, Ángel de",1868-1908,2018,https://www.lanovelacorta.com,unclear,male,ClavelesDobles,Él de los claveles dobles,1899,1890,prose,narrative,short novel,10165
+mx0029_Altamirano_Antonia,mx0029,Altamirano,"Altamirano, Ignacio Manuel",1834-1893,2021,https://www.lanovelacorta.com,unclear,male,Antonia,Antonia,1872,1870,prose,narrative,short novel,21049
+mx0030_Altamirano_NavidadMontanas,mx0030,Altamirano,"Altamirano, Ignacio Manuel",1834-1893,2018,https://www.lanovelacorta.com,unclear,male,NavidadMontanas,La navidad en las montañas,1871,1870,prose,narrative,short novel,21942
