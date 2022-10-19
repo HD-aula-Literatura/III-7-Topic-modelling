@@ -1,0 +1,35 @@
+<!DOCTYPE html><html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-2.14.0.min.js"></script><title>Textlength</title>
+   </head>
+   <body>
+      <div id="myDiv"></div><script>
+                            
+                            var trace1 = {
+                                y: [10534,14364,7012,20507,28505,26133,13183,30899,9837,26892,14875,10567,12791,23877,11028,13912,18303,13833,19425,6113,9290,12872,10713,8084,19862,30851,13848,10165,21049,21942],
+                                type: 'box',
+                                name: 'textos' // "texts"
+                            };
+                            
+                            var data = [trace1];
+                            
+                            var layout = {
+                                width: 300,
+                                height: 400,
+                                font: {size: 16},
+                                title: {
+                                    text: "Longitud de los textos en el corpus", // 'Length of the texts in the corpus'
+                                    font: {size: 16}
+                                },
+                                xaxis: {
+                                    font: {size: 22}
+                                },
+                                yaxis: {
+                                    title: "número de tokens", // "number of tokens"
+                                    font: {size: 22}
+                                }
+                            };
+                            
+                            Plotly.newPlot('myDiv', data, layout);
+                        </script></body>
+</html>

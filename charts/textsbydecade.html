@@ -1,0 +1,31 @@
+<!DOCTYPE html><html xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-2.14.0.min.js"></script><title>Texts by decade</title>
+   </head>
+   <body>
+      <div id="myDiv"></div><script>
+                        var data = [
+                        {
+                        x: [1810,1820,1830,1840,1850,1860,1870,1880,1890,1900],
+                        y: [1,0,3,3,1,1,6,3,9,2],
+                        type: 'bar'
+                        }
+                        ];
+                        
+                        var layout = {
+                            width: 550,
+                            height: 400,
+                            title: "Número de textos por década en el corpus", // 'Number of texts per decade in the corpus'
+                            xaxis: {
+                                title: "década", // decade
+                                autotick: false,
+                                type: "category"
+                            },
+                            yaxis: {
+                                title: "número de textos" // number of texts
+                            }
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

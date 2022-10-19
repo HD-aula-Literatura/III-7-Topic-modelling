@@ -108,7 +108,7 @@
                         var layout = {
                             width: 550,
                             height: 400,
-                            title: "Número de textos por década en el corpus" // 'Number of texts per decade in the corpus',
+                            title: "Número de textos por década en el corpus", // 'Number of texts per decade in the corpus'
                             xaxis: {
                                 title: "década", // decade
                                 autotick: false,
